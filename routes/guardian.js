@@ -59,7 +59,7 @@ const authMiddleware = require("../middleware/authMiddleware"); // you import it
  *                 example: Male
  *               language:
  *                 type: string
- *                 example: English
+ *                 example: Spanish
  *               religion:
  *                 type: string
  *                 example: Christianity
