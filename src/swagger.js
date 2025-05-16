@@ -12,7 +12,7 @@ const options = {
         servers: [
             {
                 url: "http://localhost:3000/",
-              //  url: "https://pitchers-backend.onrender.com/",
+               url: "https://peenly.onrender.com/",
                 description: 'Development server',
 
             },
